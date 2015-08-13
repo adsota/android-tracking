@@ -48,12 +48,6 @@
             android:name="com.appota.apiKey"
             android:value="K-A174474-U00000-LCKMTM-0FC28A8D06BC793F" />
         
-        
-        <!-- Declare pid to config your publishing channel, mine is google_publish ! -->
-
-        <meta-data
-            android:name="pid"
-            android:value="google_publish" />
     </application>
 
 </manifest>
